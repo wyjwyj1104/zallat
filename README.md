@@ -87,5 +87,6 @@ $ kill -9 PID
 - [x] Task 1 - Endpoint to get data using state code and year.
 - [x] Taks 2 - Endpoint to get data sum using state code and year ranges.
 - [] Mock test using sinon and supertest.
-- [] Link to MongoDB with mongoose
+- [X] Link to MongoDB with mongoose
+- [x] Taks 3 - Endpoint to get highest data using year ranges.
 ```
