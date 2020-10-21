@@ -11,6 +11,7 @@
 ## Source
 Please use the child series from this page (CO2 emission from Coal consumption for Electrical power production) as reference:
 * https://www.eia.gov/opendata/qb.php?category=2251609
+
 Regex Tester:
 * https://www.regextester.com/27540
 
