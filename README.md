@@ -19,7 +19,6 @@ Please use the child series from this page (CO2 emission from Coal consumption f
 
 ## Setup and running the app
 
-# development
 ```
 $ npm install
 $ npm start
