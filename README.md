@@ -5,6 +5,8 @@
 * Start date: 202010200100
 * V0: 202010200112 Project setup.
 * V1: 202010200317 Basic (1)(2) endpoints.
+* V3: 202010201500 MongoDB connection.
+* V4: 202010201924 Bonus (3) endpoint.
 
 ## Source
 Please use the child series from this page (CO2 emission from Coal consumption for Electrical power production) as reference:
