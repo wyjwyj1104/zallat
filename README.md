@@ -61,7 +61,7 @@ $ npm start
   * Data 4:  { North Dakota,  2003, 30.920418 }
   * Data 5:  { Vermont,       2008, 0         }
   * Data 6:  { West Virginia, 2001, 75.262291 }
-  * Result:  { West Virginia, 2001, 75.262291 }
+  * Result:  **{ West Virginia, 2001, 75.262291 }**
 
 
 ## Fundamentals
