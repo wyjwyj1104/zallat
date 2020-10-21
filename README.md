@@ -26,7 +26,7 @@ $ npm start
 ```
 
 ## .env
-* Since it is public project I decided to just put the password here just in case who wants to view the DB.
+* Since it is a public project I decided to just put the password here just in case who wants to view the DB.
 
 ```
 NODE_ENV=dev
