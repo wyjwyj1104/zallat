@@ -15,7 +15,7 @@ Please use the child series from this page (CO2 emission from Coal consumption f
 
 ## Prerequisite
 
-* [NodeJs 12](https://nodejs.org/en/). It is recommended to use a version manager such as [NVM](https://github.com/nvm-sh/nvm) to install NodeJS.
+* [NodeJs 12](https://nodejs.org/en/) It is recommended to use a version manager such as [NVM](https://github.com/nvm-sh/nvm) to install NodeJS.
 
 ## Setup and running the app
 
@@ -50,10 +50,10 @@ $ npm test
 $ npm start
 ```
 
-* **Basic Auth:**: Username: "admin", Password: "qwe123"
-* **Get data (1):**: http://localhost:3000/data?year=2000&state=California
-* **Get data in range (2):**: http://localhost:3000/data/range?from=2003&to=2006&state=California
-* **Get highest data in range (3):**: http://localhost:3000/data/range/highest?from=2000&to=2008
+* **Basic Auth:** Username: "admin", Password: "qwe123"
+* **Get data (1):** http://localhost:3000/data?year=2000&state=California
+* **Get data in range (2):** http://localhost:3000/data/range?from=2003&to=2006&state=California
+* **Get highest data in range (3):** http://localhost:3000/data/range/highest?from=2000&to=2008
   * This is tested with data stored in MongoDB
   * Data 1:  { California,    2000, 2.103701  }
   * Data 2:  { Alabama,       2000, 74.939037 }
