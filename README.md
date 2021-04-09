@@ -28,13 +28,11 @@ $ npm start
 ```
 
 ## .env
-* Since it is a public project I decided to just put the password here just in case who wants to view the DB.
-
 ```
 NODE_ENV=dev
-DB_URL=mongodb+srv://cluster0.lwvjg.mongodb.net/zallat
+DB_URL=
 DB_USER=admin
-DB_PASS=oSSeeKH2n5arlZSg
+DB_PASS=
 ```
 
 ## Test
